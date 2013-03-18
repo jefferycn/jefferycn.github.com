@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Jeffery</title>
+        <description>Jeffery - Jeffery</description>
+        <link>http://jefferycn.github.com</link>
+        <link>http://jefferycn.github.com</link>
+        <lastBuildDate>2013-03-18T17:02:15+08:00</lastBuildDate>
+        <pubDate>2013-03-18T17:02:15+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>autossh with gfw list on iphone</title>
+                <description>&lt;h3 id='_autossh'&gt;安装 autossh&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;
+$ sudo make me a sandwich
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id='_pac_'&gt;下载 pac 文件&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;php
+echo phpinfo();
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id='wifi__pac_'&gt;Wifi 设置种使用 pac 文件&lt;/h3&gt;
+
+&lt;h3 id='3g__pac__'&gt;3G 设置中使用 pac 文件 (需要越狱)&lt;/h3&gt;
+
+&lt;h3 id='id30'&gt;技能升级&lt;/h3&gt;
+
+&lt;h4 id='id31'&gt;火球术&lt;/h4&gt;
+
+&lt;p&gt;1. 落靠尔（黑石） 1. 擂昔格尔（银牙） 1. 火眼骷髅（高地）&lt;/p&gt;
+
+&lt;h4 id='id32'&gt;治疗术&lt;/h4&gt;
+
+&lt;p&gt;- 巫医（祖尔） - 预言者（神庙） - 戈睿姆落哥（奥忒曼）&lt;/p&gt;</description>
+                <link>http://jefferycn.github.com/2013/03/18/autossh-with-gfw-list-on-iphone</link>
+                <guid>http://jefferycn.github.com/2013/03/18/autossh-with-gfw-list-on-iphone</guid>
+                <pubDate>2013-03-18T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

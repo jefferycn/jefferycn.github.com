@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="http://typo.sofish.de/typo.css" />
+	<title>@jefferycn</title>
+	<style>
+	   a{color:#09f;}
+	   code{color:#080;}
+	   h1, #tagline{display:inline;}
+	   #wrapper{padding:5% 8%;min-width:480px;}
+	   #tagline{font:0.8em serif;color:#888;display:inline-block;margin:0.1em 0 1.2em;}
+	</style>
+</head>
+<body>
+
+<div id="wrapper" class="typo">
+
+<h1>Jeffery</h1><br />
+<h2 id="tagline">It's all about Jeffery...</h2>
+
+<h3>关于 Jeffery</h3>
+目前就职于 symbio.com, 做项目经理以及PHP相关开发。英语很烂，还好非哑巴英语。技术不算最好，还好踏实。为人诚恳，与人讨论问题，知无不言，言无不尽。 <br />
+
+<h3>联系我</h3>
+<p>
+通过以下方式可以联系到我： <br />
+<blockquote>
+<ul>
+    <li><a href="http://twitter.com/jefferycn">jefferycn@twitter</a>
+    <li><a href="http://weibo.com/jefferycn">jefferycn@weibo</a>
+    <li><a href="mailto:i@youjf.com">i@youjf.com</a>
+</ul>
+</blockquote>
+</p>
+
+<h3>关于 fgg.me</h3>
+<p>
+本意是做一个方便大家的微薄同步工具，无奈程序设计思考不足以及没有合适的服务器资源，目前处于停滞状态，该服务也不可用。 
+</p>
+<p>
+这里有一个类似服务供大家选择： <a href="http://h2weibo.cloudfoundry.com/">http://h2weibo.cloudfoundry.com/</a>
+</p>
+<p>
+如果该服务有任何新消息，我会更新到：<a href="http://fgg.me/">http://fgg.me/</a>
+</p>
+
+<h3>关于 JustInput</h3>
+<p>
+鉴于目前HP的种种策略，我估计这个项目也会长眠了。非常感谢大家的支持，收到大家很多的捐助，非常感谢。都给儿子买奶粉了，笑。
+</p>
+<p>
+我依然认为，对于一代的Pre机器，webOS 1.4.5 是最为稳定的一个版本。下载链接以及源码依然是开放给大家的：
+<pre>
+安装包下载地址：<a href="http://dl.dbank.com/c04eeix0kk">Dbank</a><br />
+源码地址：<a href="http://code.google.com/p/justinput/">Google Code</a>
+</pre>
+</p>
+
+<h3>关于 魔兽世界</h3>
+<p>
+从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师，人类盗贼，侏儒法师，人类圣骑士。之前在5区法拉希姆玩暗夜德鲁伊和人类猎人，现在又跑到10区加尔打部落。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
+<pre>
+http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Caf/simple
+</pre>
+</p>
+<p>
+跟朋友们一起玩游戏的时间是相当开心的，希望在看我博客的你，也能够抓紧时间，与朋友一起好好享受生活。2012快来啦。<br />
+</p>
+
+
+<h3>本页css支持</h3>
+<p><a href="http://typo.sofish.de/license.txt">http://typo.sofish.de/license.txt</a></p>
+
+</div>
+
+</body>
+</html>
