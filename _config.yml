@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://jefferycn.github.com
-title: Simple Life
+url: http://youjf.com
+title: Jeffery
 subtitle: It's all about Jeffery.
 author: Jeffery
 simple_search: http://www.google.com.hk/search
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: jefferycn
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
