@@ -1,0 +1,13 @@
+---
+layout: post
+title: "e4200 with tomato"
+date: 2013-03-24 21:06
+comments: true
+categories: 
+---
+
+ssh rsa key not working
+> /tmp/home/root
+cd /jffs/
+mkdir -p home/root
+mount -o bind /jffs/home/root /root
