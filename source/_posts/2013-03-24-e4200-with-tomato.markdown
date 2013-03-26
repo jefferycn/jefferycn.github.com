@@ -2,12 +2,25 @@
 layout: post
 title: "e4200 with tomato"
 date: 2013-03-24 21:06
-comments: true
-categories: 
+categories: E4200
 ---
 
+**施工中 Under construction**
+
 ssh rsa key not working
-> /tmp/home/root
+
+嗯,原因很明确,默认的root目录是在tmp里面,重启以后会被清空
+
+```
+/tmp/home/root
+```
+
+我的解决办法是: 打开jffs, 然后在里头创建一个目录, 用于存放root用户的各种文件, 当然包括ssh的信息了.
+
+```
 cd /jffs/
+
 mkdir -p home/root
+
 mount -o bind /jffs/home/root /root
+```
