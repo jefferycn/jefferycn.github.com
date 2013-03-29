@@ -23,6 +23,9 @@
 		{% if site.googleplus_user and site.googleplus_hidden == false %}
 		<a class="google" href="https://plus.google.com/{{ site.googleplus_user }}?rel=author" title="Google+">Google+</a>
 		{% endif %}
+		{% if site.sina_user %}
+		<a class="sina" href="http://weibo.com/{{ site.sina_user }}" title="Weibo">Weibo</a>
+		{% endif %}
 		{% if site.twitter_user %}
 		<a class="twitter" href="http://twitter.com/{{ site.twitter_user }}" title="Twitter">Twitter</a>
 		{% endif %}
