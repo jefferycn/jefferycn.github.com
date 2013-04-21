@@ -84,6 +84,47 @@ categories: E4200
 
 # 使用脚本下载迅雷离线的资源
 
+要在E4200上使用该迅雷离线下载脚本,需要修改一些源码,来使工具正常运行
+
+修改 `lixian_cli.py`
+
+	#!/usr/bin/env python
+
+to
+
+	#!/opt/bin/python2.7
+
+修改 `lixian_download_tools.py`
+
+	wget_opts = ['wget', '--header=Cookie: gdriveid='+gdriveid, download_url, '-O', filename]
+
+to
+
+	wget_opts = ['/opt/bin/wget', '--header=Cookie: gdriveid='+gdriveid, download_url, '-O', filename]
+
+修改完成以后,放入`/opt/bin`目录
+	
+	mv /mnt/DATA/lixian /opt/bin/
+
+给下载脚本创建一个更短的名字,方便输入
+	
+	#昵称 "迅雷"
+	ln -s /opt/bin/lixian/lixian_cli.py /opt/bin/xl
+	#昵称 "离线"
+	ln -s /opt/bin/lixian/lixian_cli.py /opt/bin/lx
+
+创建配置文件
+
+	lx config username
+	lx config password
+	lx config no-hash
+	lx config continue
+	lx config output-dir=/mnt/DATA/download/
+	lx config -- aria2-opts "--event-poll=select --max-tries=0"
+	lx config -- wget-opts "--tries=0 --retry-connrefused"
+	mv /root/.xunlei.lixian.config /opt/bin/lixian
+
+
 [https://github.com/iambus/xunlei-lixian](https://github.com/iambus/xunlei-lixian)
 
 # 安装lighttpd, 配合Apple TV播放带字幕的MP4视频
