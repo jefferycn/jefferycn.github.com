@@ -26,6 +26,7 @@ footer: true
 从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师，人类盗贼，侏儒法师，人类圣骑士。之前在5区法拉希姆玩暗夜德鲁伊和人类猎人，现在又跑到10区加尔打部落。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
 
 85级血精灵战士 [Caf](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Caf/simple)
+
 86级血精灵盗贼 [Eth](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Eth/simple)
 
 ### 最近在跟的那些动画
