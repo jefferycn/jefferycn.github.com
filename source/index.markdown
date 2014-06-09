@@ -9,6 +9,8 @@ footer: true
 
 目前就职于 [Symbio](http://symbio.com/), 做项目经理以及`PHP`相关开发。英语很烂，还好非哑巴英语。技术不算最好，还好踏实。为人诚恳，与人讨论问题，知无不言，言无不尽。
 
+原谅我，我很不喜欢写博客。
+
 ### JustInput
 
 鉴于目前HP的种种策略，我估计这个项目也会长眠了。非常感谢大家的支持，收到大家很多的捐助，非常感谢。都给儿子买奶粉了，笑。
@@ -29,7 +31,17 @@ footer: true
 
 86级血精灵盗贼 [Eth](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Eth/simple)
 
+### 暗黑3
+
+一直是暗黑2的粉丝，暗黑3出来的时候，也入了这个坑。美服一段时间后AFK了。资料片开了，又继续奋斗在涅法雷姆。
+
+70级法师 [Eth](http://tw.battle.net/d3/zh/profile/jeffery-1199/hero/31808305)
+
 ### 最近在跟的那些动画
+
+*2014 新番*
+
+1. [希德尼雅的骑士](http://www.verycd.com/entries/781310/) 跟主角去看海的男人、女人都死了。要不要死那么快啊？
 
 跟各种动画10多年啦. 想要细数那些我喜欢的动画, 貌似是个巨大的工程.
 先列出一些不错的.
@@ -45,3 +57,4 @@ footer: true
 8. [命运石之门](http://www.verycd.com/entries/519147/) 那悲伤的世界线
 9. [Phantom~幻灵镇魂曲~](http://www.verycd.com/entries/520355/) 不错的枪战动画
 10. [机器人笔记](http://www.verycd.com/entries/668321/) 史上最弱机器人
+11. [言叶之庭](http://www.verycd.com/entries/769253/) 新海诚电影。清新亮丽的色彩，姐弟恋、师生恋、失足少年。
