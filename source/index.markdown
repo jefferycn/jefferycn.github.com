@@ -1,6 +1,6 @@
 ---
 layout: page
-date: 2013-03-20 22:17
+date: 2015-02-16 12:50
 comments: false
 footer: true
 ---
@@ -25,11 +25,14 @@ footer: true
 
 ### 魔兽世界
 
-从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师，人类盗贼，侏儒法师，人类圣骑士。之前在5区法拉希姆玩暗夜德鲁伊和人类猎人，现在又跑到10区加尔打部落。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
+从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师、人类盗贼、暗夜盗贼、暗夜战士、暗夜牧师、侏儒法师、人类圣骑士、暗夜德鲁伊、人类猎人。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
+宠物对战真是一个休闲的好游戏，来一起收集宠物吧！
 
 85级血精灵战士 [Caf](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Caf/simple)
 
 86级血精灵盗贼 [Eth](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Eth/simple)
+
+100级人类猎人 [Decaf](http://www.battlenet.com.cn/wow/zh/character/%E6%B3%95%E6%8B%89%E5%B8%8C%E5%A7%86/Decaf/simple)
 
 ### 暗黑3
 
@@ -39,9 +42,10 @@ footer: true
 
 ### 最近在跟的那些动画
 
-*2014 新番*
+*2015 新番*
 
-1. [希德尼雅的骑士](http://www.verycd.com/entries/781310/) 跟主角去看海的男人、女人都死了。要不要死那么快啊？
+1. [Aldnoah Zero 第二季](http://www.verycd.com/entries/799870/)
+2. 还没找到想追的其他番。
 
 跟各种动画10多年啦. 想要细数那些我喜欢的动画, 貌似是个巨大的工程.
 先列出一些不错的.
@@ -58,3 +62,5 @@ footer: true
 9. [Phantom~幻灵镇魂曲~](http://www.verycd.com/entries/520355/) 不错的枪战动画
 10. [机器人笔记](http://www.verycd.com/entries/668321/) 史上最弱机器人
 11. [言叶之庭](http://www.verycd.com/entries/769253/) 新海诚电影。清新亮丽的色彩，姐弟恋、师生恋、失足少年。
+12. [希德尼雅的骑士](http://www.verycd.com/entries/781310/) 跟主角去看海的男人、女人都死了。要不要死那么快啊？
+13. [Aldnoah Zero](http://www.verycd.com/topics/2973152/) 公主啊，你都死了几次了？老虚你不带这样黑公主的。
