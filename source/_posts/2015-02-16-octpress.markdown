@@ -1,0 +1,14 @@
+---
+layout: post
+title: "octpress commands"
+date: 2015-02-16 13:24
+comments: true
+categories: 
+---
+
+The following commands will usually be used:
+
+* rake generate
+* rake preview
+* rake deploy
+* rake new_post["title"]
