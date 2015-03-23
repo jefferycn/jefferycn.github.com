@@ -20,7 +20,7 @@ footer: true
 
 安装包下载地址：[Dbank](http://dl.dbank.com/c04eeix0kk)
 
-源码地址：[Goole Code](http://code.google.com/p/justinput/)
+源码地址：[Github](https://github.com/jefferycn/justinput)
 
 
 ### 魔兽世界
@@ -28,11 +28,11 @@ footer: true
 从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师、人类盗贼、暗夜盗贼、暗夜战士、暗夜牧师、侏儒法师、人类圣骑士、暗夜德鲁伊、人类猎人。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
 宠物对战真是一个休闲的好游戏，来一起收集宠物吧！
 
-85级血精灵战士 [Caf](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Caf/simple)
-
-86级血精灵盗贼 [Eth](http://www.battlenet.com.cn/wow/zh/character/%E5%8A%A0%E5%B0%94/Eth/simple)
-
 100级人类猎人 [Decaf](http://www.battlenet.com.cn/wow/zh/character/%E6%B3%95%E6%8B%89%E5%B8%8C%E5%A7%86/Decaf/simple)
+
+100级暗夜精灵德鲁伊 [好乖](http://www.battlenet.com.cn/wow/zh/character/%E6%B3%95%E6%8B%89%E5%B8%8C%E5%A7%86/%E5%A5%BD%E4%B9%96/simple)
+
+100级血精灵盗贼 [Caf](http://www.battlenet.com.cn/wow/zh/character/%E6%B3%95%E6%8B%89%E5%B8%8C%E5%A7%86/Caf/simple)
 
 ### 暗黑3
 
