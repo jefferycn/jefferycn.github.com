@@ -53,7 +53,7 @@ button.css3button {
         to(#4780b8));
 }
 </style>
-    <input type="text" maxlength="4" class="css3button" id="birthday" />
+    <input type="text" maxlength="4" size="16" class="css3button" id="birthday" />
     <button type="button" class="css3button" id="go">Go</button>
 </div>
 <p></p>
