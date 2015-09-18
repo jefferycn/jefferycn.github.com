@@ -1,0 +1,152 @@
+---
+layout: page
+title: "致我们逝去的青春"
+date: 2015-09-17 15:22:10 +0800
+comments: true
+categories: 
+---
+说要开同学会,一开始我是没有拒绝的..但是,但是为什么你们会选**9月19日**..
+
+好吧,作为码农的我,半年前就开始计划这次出行,只有委屈自己了 - 我是要再忍10年才能一次见到你们所有人!
+
+![我在远方凝视着你,我的朋友~](/images/yuantang.jpg "陷入深深的沉思...")
+
+我翻出了当年那本毕业纪念册,如果有兴趣,请输入你的生日,来查看当年你在我的毕业纪念本上留下的墨宝.
+
+```
+生日格式: 0919
+```
+
+<p></p>
+<div>
+<style type="text/css">
+.css3button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #437cb5;
+    -moz-box-shadow:
+        0px 1px 3px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,255,255,0.5);
+    -webkit-box-shadow:
+        0px 1px 3px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,255,255,0.5);
+    box-shadow:
+        0px 1px 3px rgba(000,000,000,0.5),
+        inset 0px 0px 1px rgba(255,255,255,0.5);
+    text-shadow:
+        0px -1px 0px rgba(000,000,000,1),
+        0px 1px 0px rgba(255,255,255,0.3);
+}
+button.css3button {
+    color: #ffffff;
+    background: -moz-linear-gradient(
+        top,
+        #50acf2 0%,
+        #4780b8);
+    background: -webkit-gradient(
+        linear, left top, left bottom,
+        from(#50acf2),
+        to(#4780b8));
+}
+</style>
+    <input type="text" maxlength="4" class="css3button" id="birthday" />
+    <button type="button" class="css3button" id="go">Go</button>
+</div>
+<p></p>
+<div id="msg"></div>
+<div id="canvas">
+</div>
+<div id="canvas-none" style="display:none;">
+    ❏ 当年你惜墨如金,毛都没留给我啊!~ <br />
+    ❏ 试试公历生日或者农历生日 <br />
+    ❏ 考虑一下补上一些? 请微信小窗给我 \(^o^)/~
+</div>
+<script type="text/javascript">
+    var database = {
+        "0112": ["/images/m/0112-1.jpg", "/images/m/0112-2.jpg", "/images/m/0112-3.jpg", "/images/m/0112-4.jpg", "/images/m/0112-5.jpg"],
+        "0125": ["/images/m/0125.jpg"],
+        "0315": ["/images/m/0315.jpg"],
+        "0415": ["/images/m/0415.jpg"],
+        "0803": ["/images/m/0803.jpg"],
+        "1024": ["/images/m/1024.jpg"],
+        "1223": ["/images/m/1223.jpg"],
+        "0127": ["/images/m/0127.jpg"],
+        "0320": ["/images/m/0320.jpg"],
+        "1102": ["/images/m/1102.jpg"],
+        "1219": ["/images/m/1219.jpg"],
+        "0429": ["/images/m/0429.jpg"],
+        "0918": ["/images/m/0918.jpg"],
+        "0314": ["/images/m/0314.jpg"],
+        "0406": ["/images/m/0406.jpg"],
+        "0715": ["/images/m/0715.jpg"],
+        "0929": ["/images/m/0929.jpg"],
+        "0217": ["/images/m/0217-1.jpg", "/images/m/0217-2.jpg"],
+        "0327": ["/images/m/0327-1.jpg", "/images/m/0327-2.jpg"],
+        "0416": ["/images/m/0416-1.jpg", "/images/m/0416-2.jpg"],
+        "0809": ["/images/m/0809-1.jpg", "/images/m/0809-2.jpg"],
+        "1221": ["/images/m/1221-1.jpg", "/images/m/1221-2.jpg"],
+        "1225": ["/images/m/1225-1.jpg", "/images/m/1225-2.jpg"]
+    };
+    var msg = {
+        "0112": "整整5页啊,偶的神呐,还带一寸照片的啊,偶买嘎德..你要幸福哦~",
+        "0125": "我只记得你那阵比我强壮 - 有点中年人的赶脚..祝你幸福",
+        "0315": "那阵你看的漫画比我多,现在肯定我看得比你多..祝你幸福",
+        "0415": "貌似在 qq 空间还是哪里看到你的近照,我就欣慰了 - 头顶比我还光, 哈哈哈 虽然头发少了,你也要幸福哦",
+        "0803": "最喜欢的人居然不是未来的老公,悄悄的,表给你老公看到了.祝你幸福",
+        "1024": "嗯,我不是爱学习的人,但是超过学霸是我毕生的追求.祝你幸福",
+        "1223": "那阵你是忙着过组织生活,现在你是忙着组织麻将生活..祝你幸福,麻运昌盛",
+        "0127": "同窗9年,真是一段美好的记忆. 祝你永远幸福快乐",
+        "0320": "大家都要开心的对待对自己好的每一个人,不是吗? 祝你幸福",
+        "1102": "真羡慕你又要生了..两个娃好幸福啊..",
+        "1219": "勇哥,我可以说很难看到比我的字还写得丑的字吗?哈哈哈哈 祝你幸福",
+        "0429": "其实,上高中以后,我才发现我更喜欢打篮球...祝你幸福",
+        "0918": "你家厨房吊着那只待宰的团鱼,我印象深刻...还有抓鱼,看漫画各种回忆...祝你生意兴隆!",
+        "0314": "据说你是初中同学里最早结婚的,没有之一..好幸福,祝你永远幸福快乐..你的字写得真好...",
+        "0406": "字字珠玑,10几年了,也能传达出一份真心. 祝你幸福",
+        "0715": "印象中的你还是很瘦小,也许那时我也一样..还记得走路到你家去耍..祝你永远幸福快乐",
+        "0929": "看吧,虽然当年不熟,但是你写过一段祝福的文子以后,它就永远都在那里. 祝你幸福",
+        "0217": "大姐,佩服你的口水文字也可以占2页纸. 现在看到还是很温暖的, 祝你幸福..",
+        "0327": "已经不记得你是否还我钢尺没,但是我家里还有一把 O(∩_∩)O 祝你幸福",
+        "0416": "当年的胡言乱语,现在重温的时候,总有一种幸福的感觉. 祝你幸福..",
+        "0809": "背后的自画像画得真好, 祝你快乐",
+        "1221": "背后的自画像画得真好, 祝你快乐",
+        "1225": "我们都在长大,都在变老, 祝你永远幸福快乐",
+        "0919": "我 X, 喊你输生日, 输聚会日期搞毛啊..."
+    }
+    $(document).ready(function () {
+        $('#go').on('click', function () {
+            $('#canvas').hide();
+            $('#canvas-none').hide();
+            var index = $('#birthday').val();
+            var imgs = database["" + index];
+            if (imgs == undefined) {
+                $('#canvas-none').show();
+                var title = msg["" + index];
+                if (title != undefined) {
+                    $('#canvas').show();
+                    $('#msg').html(title);
+                };
+            } else {
+                $('#canvas').show();
+                var img = "";
+                var title = msg["" + index];
+                $('#msg').html(title);
+                for (var i = 0; i < imgs.length; i++) {
+                    img += '<a class="fancybox1" rel="gallery1" href="' + imgs[i] + '"><img src="' + imgs[i] + '" alt="" /></a>';
+                }
+                $('#canvas').html(img);
+                $(".fancybox1").fancybox({
+                    openEffect  : 'none',
+                    closeEffect : 'none'
+                });
+                $('#last').show();
+            }
+        });
+    });
+</script>
+
+<div id="last" style="display:none;">最后,祝大家聚会愉快,身体健康!</div>
