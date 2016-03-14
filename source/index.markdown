@@ -27,6 +27,7 @@ footer: true
 
 从2005年开始，也断断续续的玩过好几年了。职业从最开始的亡灵盗贼开始，又先后尝试过亡灵牧师、人类盗贼、暗夜盗贼、暗夜战士、暗夜牧师、侏儒法师、人类圣骑士、暗夜德鲁伊、人类猎人。真的是小号无极限呐。不过跟朋友们一起玩游戏的开心过程，是很满足滴。
 宠物对战真是一个休闲的好游戏，来一起收集宠物吧！
+AFKing
 
 100级人类猎人 [Decaf](http://www.battlenet.com.cn/wow/zh/character/%E6%B3%95%E6%8B%89%E5%B8%8C%E5%A7%86/Decaf/simple)
 
@@ -36,7 +37,7 @@ footer: true
 
 ### 暗黑3
 
-一直是暗黑2的粉丝，暗黑3出来的时候，也入了这个坑。美服一段时间后AFK了。资料片开了，又继续奋斗在涅法雷姆。
+一直是暗黑2的粉丝，暗黑3出来的时候，也入了这个坑。AFKing
 
 70级法师 [Eth](http://tw.battle.net/d3/zh/profile/jeffery-1199/hero/31808305)
 
@@ -45,7 +46,9 @@ footer: true
 *2015 新番*
 
 1. [Aldnoah Zero 第二季](http://www.verycd.com/entries/799870/)
-2. 还没找到想追的其他番。
+2. [机动战士高达 The ORIGIN](http://www.verycd.com/entries/776169/) 已经出到第二季啦, 自己去找最新的
+3. [机动战士高达UC Unicorn](http://www.verycd.com/entries/777949/) 哟, 美貌的吉恩公主哟~
+4. 好像没有其他的推荐了.
 
 跟各种动画10多年啦. 想要细数那些我喜欢的动画, 貌似是个巨大的工程.
 先列出一些不错的.
