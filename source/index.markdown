@@ -69,4 +69,4 @@ AFKing
 15. [机动战士高达 The ORIGIN](http://www.verycd.com/entries/776169/) 已经出到第二季啦, 自己去找最新的
 16. [机动战士高达UC Unicorn](http://www.verycd.com/entries/777949/) 哟, 美貌的吉恩公主哟~
 
-![](https://codeship.com/projects/146502/status?branch=master)
+![](https://codeship.com/projects/b0929770-e504-0133-7429-26ff8de66215/status?branch=master)
