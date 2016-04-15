@@ -43,12 +43,10 @@ AFKing
 
 ### 最近在跟的那些动画
 
-*2015 新番*
+*2016 新番*
 
-1. [Aldnoah Zero 第二季](http://www.verycd.com/entries/799870/)
-2. [机动战士高达 The ORIGIN](http://www.verycd.com/entries/776169/) 已经出到第二季啦, 自己去找最新的
-3. [机动战士高达UC Unicorn](http://www.verycd.com/entries/777949/) 哟, 美貌的吉恩公主哟~
-4. 好像没有其他的推荐了.
+1. [亚人](http://www.verycd.com/entries/809057/) 奔跑吧,骚年!
+2. 好像没有其他的推荐了.
 
 跟各种动画10多年啦. 想要细数那些我喜欢的动画, 貌似是个巨大的工程.
 先列出一些不错的.
@@ -67,3 +65,8 @@ AFKing
 11. [言叶之庭](http://www.verycd.com/entries/769253/) 新海诚电影。清新亮丽的色彩，姐弟恋、师生恋、失足少年。
 12. [希德尼雅的骑士](http://www.verycd.com/entries/781310/) 跟主角去看海的男人、女人都死了。要不要死那么快啊？
 13. [Aldnoah Zero](http://www.verycd.com/topics/2973152/) 公主啊，你都死了几次了？老虚你不带这样黑公主的。
+14. [Aldnoah Zero 第二季](http://www.verycd.com/entries/799870/)
+15. [机动战士高达 The ORIGIN](http://www.verycd.com/entries/776169/) 已经出到第二季啦, 自己去找最新的
+16. [机动战士高达UC Unicorn](http://www.verycd.com/entries/777949/) 哟, 美貌的吉恩公主哟~
+
+![](https://codeship.com/projects/146502/status?branch=master)
