@@ -18,7 +18,7 @@ footer: true
 
 我依然认为，对于一代的Pre机器，webOS 1.4.5 是最为稳定的一个版本。下载链接以及源码依然是开放给大家的：
 
-安装包下载地址：[Dbank](http://dl.dbank.com/c04eeix0kk)
+安装包下载地址：[Github](https://github.com/jefferycn/justinput/releases)
 
 源码地址：[Github](https://github.com/jefferycn/justinput)
 
